@@ -1,0 +1,2 @@
+import{g as n,ao as c}from"./rpcWorker-X0469dqW.js";function f(t,s){return s.forEach(function(r){r&&typeof r!="string"&&!Array.isArray(r)&&Object.keys(r).forEach(function(e){if(e!=="default"&&!(e in t)){var a=Object.getOwnPropertyDescriptor(r,e);Object.defineProperty(t,e,a.get?a:{enumerable:!0,get:function(){return r[e]}})}})}),Object.freeze(t)}var o=c(),u=n(o),v=f({__proto__:null,default:u},[o]);export{v as c};
+//# sourceMappingURL=canvas2svg-BB9thb6T.js.map

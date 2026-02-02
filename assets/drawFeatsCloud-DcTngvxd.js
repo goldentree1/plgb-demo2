@@ -1,0 +1,2 @@
+import{u as f}from"./index-DUxFddIG.js";import{d as h}from"./drawFeatsCommon-C0l28OJR.js";import"./color-CtySM7W0.js";function p(o,s,u,d){const n=o.map(t=>t.distance).filter(t=>t>0);if(n.length===0)return{chainYOffsets:new Map};const e=10,r=Math.log(f.max(n)+e),a=Math.log(f.min(n)+e),l=(s.height-20)/(r-a||1),i=new Map;for(const{id:t,distance:c}of o){const m=c>0?(Math.log(c+e)-a)*l:0;i.set(t,m)}return{chainYOffsets:i}}function x(o,s){h(o,s,p)}export{x as drawFeats};
+//# sourceMappingURL=drawFeatsCloud-DcTngvxd.js.map

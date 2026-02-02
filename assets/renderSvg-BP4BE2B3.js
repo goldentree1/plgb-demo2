@@ -1,0 +1,2 @@
+import{V as i,u as o,j as n,ai as x,Q as g}from"./rpcWorker-X0469dqW.js";async function j(t,e,r){await i(()=>!!t.regionCannotBeRenderedText);const{offsetPx:s}=o.getContainingView(t),{lineZoneHeight:a}=t;return n.jsx(n.Fragment,{children:n.jsxs("g",{transform:`translate(${Math.max(-s,0)})`,children:[n.jsx(x,{exportSVG:!0,model:t}),n.jsxs("g",{transform:`translate(0,${a})`,children:[n.jsx("g",{children:await r(e)}),n.jsx(g,{model:t,orientation:"left",exportSVG:!0})]})]})})}export{j as renderSvg};
+//# sourceMappingURL=renderSvg-BP4BE2B3.js.map

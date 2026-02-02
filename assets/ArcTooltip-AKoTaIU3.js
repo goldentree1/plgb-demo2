@@ -1,0 +1,2 @@
+import{o as s,j as t,r as n,B as i,c as e}from"./rpcWorker-X0469dqW.js";const a=n.forwardRef(function({message:o},l){return t.jsx("div",{ref:l,children:n.isValidElement(o)?o:o?t.jsx(e.SanitizedHTML,{html:String(o)}):null})}),c=s(function({contents:r}){return r?t.jsx(n.Suspense,{fallback:null,children:t.jsx(i,{children:t.jsx(a,{message:r})})}):null});export{c as default};
+//# sourceMappingURL=ArcTooltip-AKoTaIU3.js.map

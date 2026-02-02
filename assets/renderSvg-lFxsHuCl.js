@@ -1,0 +1,2 @@
+import{w as o,u as i,j as e,ae as s}from"./index-DUxFddIG.js";async function d(t,n,r){await o(()=>!!t.regionCannotBeRenderedText);const{offsetPx:a}=i.getContainingView(t);return e.jsxs(e.Fragment,{children:[e.jsx("g",{children:await r(n)}),e.jsx("g",{transform:`translate(${Math.max(-a,0)})`,children:e.jsx(s,{model:t,orientation:"left",exportSVG:!0})})]})}export{d as renderSvg};
+//# sourceMappingURL=renderSvg-lFxsHuCl.js.map
